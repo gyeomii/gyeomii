@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyeomii&fontSize=90)
- 
 <div align="center">
     <p>
-    <h1 align="center">gyeomii</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyeomii&fontSize=90)
     <a href="https://www.instagram.com/gyeomii_/" target="_blank">
         <img src="https://img.shields.io/badge/gyeomii_-003D7D?style=for-the/badge&logo=Instagram&logoColor=FFFFFF"/>
     </a>
