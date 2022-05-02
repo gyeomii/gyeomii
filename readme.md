@@ -12,6 +12,9 @@
     <a href="https://github.com/gyeomii" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the/badge&logo=GitHub&logoColor=FFFFFF"/>
     </a>
+    <a href="https://www.notion.so/gyeomii/" target="_blank">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the/badge&logo=Notion&logoColor=FFFFFF"/>
+    </a>
     </a>
     <a href="mailto:kimsg7388@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the/badge&logo=Gmail&logoColor=FFFFFF"/>
