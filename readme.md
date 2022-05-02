@@ -1,6 +1,6 @@
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyeomii&fontSize=90)
-
+</div>
 <div align="center">
     <p>
     <a href="https://www.instagram.com/gyeomii_/" target="_blank">
