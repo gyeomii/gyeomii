@@ -22,7 +22,7 @@
 <div align="center">
     <p>
         <img align="center"
-             src="https://github-readme-stats.vercel.app/api?username=gyemoii&show_icons=true&locale=en"
+             src="https://github-readme-stats.vercel.app/api?username=gyeomii&show_icons=true&locale=en"
              alt="gyeomii"/>
     </p>
     <p>
