@@ -35,7 +35,7 @@
 <div align="center">
     <p>
         <img align="center"
-             src="https://github-readme-stats.vercel.app/api?username=gyeomii&show_icons=true&locale=en&bg_color=DEG,f794a4,fdd6bd&text_color=FFFFFF&title_color=FFFFFF"
+             src="https://github-readme-stats.vercel.app/api?username=gyeomii&show_icons=true&locale=en&bg_color=8A2387,E94057,F27121&text_color=FFFFFF&title_color=FFFFFF"
              alt="gyeomii"/>
     </p>
     <p>
