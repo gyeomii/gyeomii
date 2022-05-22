@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the/badge&logo=Velog&logoColor=FFFFFF"/>
     </a>
     <a href="https://www.instagram.com/gyeomii_/" target="_blank">
-        <img src="https://img.shields.io/badge/gyeomii_-8a2387?style=for-the/badge&logo=Instagram&logoColor=FFFFFF"/>
+        <img src="https://img.shields.io/badge/gyeomii_-linear-gradient(to right, #8a2387, #e94057, #f27121)?style=for-the/badge&logo=Instagram&logoColor=FFFFFF"/>
     </a>
     <a href="https://github.com/gyeomii" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the/badge&logo=GitHub&logoColor=FFFFFF"/>
