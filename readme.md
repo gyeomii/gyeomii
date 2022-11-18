@@ -12,7 +12,7 @@
     <a href="https://github.com/gyeomii" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the/badge&logo=GitHub&logoColor=FFFFFF"/>
     </a>
-    <a href="https://www.notion.so/gyeomii/" target="_blank">
+    <a href="https://gyeomii.notion.site/a16e0b17813c429dac8faeeeaaf24383" target="_blank">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the/badge&logo=Notion&logoColor=FFFFFF"/>
     </a>
     </a>
